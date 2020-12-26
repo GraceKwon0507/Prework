@@ -2,7 +2,7 @@
 
 Submitted by: Grace Kwon
 
-Time spent: 2 hours spent in total
+Time spent: 1 week spent in total
 
 ## User Stories
 
