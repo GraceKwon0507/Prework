@@ -32,8 +32,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+This was my first time building an app using iOS, so it was tricky. The fact that I have never used an Apple product before made it harder. However, as a person that enjoys creating Android apps, this was a fun experience. Can't wait to learn more!
 
 ## License
 
